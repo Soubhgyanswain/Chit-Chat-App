@@ -18,8 +18,6 @@ https://chitchat-production.up.railway.app/#/
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/116587797/249452798-a6788eb1-ef29-4fa2-9cf2-972500f5721d.png" />
 <h3>Start a New Conversation (Private Message)</h3>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/116587797/249453362-ee165708-0f53-4657-b62b-aaabeafebc41.png" />
-<h3>Profile Page</h3>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/116587797/249453604-4ebfca53-7c53-4614-ae5a-b56020913cbe.png" />
 
 <h2>🧐 Features</h2>
 
